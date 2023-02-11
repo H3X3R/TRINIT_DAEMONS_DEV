@@ -1,0 +1,43 @@
+.container {
+    width: 280px;
+    color: #10cd78;
+    background-color: rgb(3, 3, 3);
+  }
+  
+  .title {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px;
+    
+  }
+  .totaldata {
+    color: #39bc53;
+    padding: 0px 10px;
+  }
+
+  .data {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+  }
+
+  .data2 {
+    color: #aaa;
+    font-size: : 14px;
+    font-weight: bold;
+    padding: 5px;
+  }
+
+  .textbox {
+    width: 100%;
+    font-size: 12px;
+    margin: 0;
+    padding: 0px 2px;
+  }
+  
+  .textbox:focus {
+    outline: 0;
+    border-color: #66afe9;
+  }
